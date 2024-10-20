@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProductePractica1</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="fusce_egestas_ex_et_sapien">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem ipsum dolor sit amet</string>
+    <string name="preu">$39</string>
+    <string name="your_product_name">Your product name</string>
+
+    <string-array name="product_types">
+        <item>Basic</item>
+        <item>Deluxe</item>
+        <item>Premium</item>
+    </string-array>
+
+
+</resources>
+
